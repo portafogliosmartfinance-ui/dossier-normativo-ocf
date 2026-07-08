@@ -1,1 +1,93 @@
-{}
+{
+  "routine": "Controllo normativo settimanale OCF",
+  "last_run": "2026-07-08",
+  "drive_folder": "Normativa OCF",
+  "drive_folder_id": "15-7Y-y1-gvk6JE9OQBUSAVGhh49SoXcN",
+  "repo_archive_dir": "documenti/",
+  "documents": [
+    {
+      "name": "Testo-Unico-Bancario.pdf",
+      "title": "Testo Unico Bancario (D.lgs. 385/1993 e successive modifiche)",
+      "source": "Banca d'Italia",
+      "source_page": "https://www.bancaditalia.it/compiti/vigilanza/normativa/index.html",
+      "url": "https://www.bancaditalia.it/compiti/vigilanza/intermediari/Testo-Unico-Bancario.pdf",
+      "sha256": "899a4d8228cd935da9987f236c193cfc0b7edf482c9931fe39e758ca13dfe703",
+      "size": 3733816,
+      "last_checked": "2026-07-08",
+      "last_changed": "2026-07-08"
+    },
+    {
+      "name": "reg_consob_2018_20307.pdf",
+      "title": "Regolamento Intermediari Consob n. 20307/2018 (testo consolidato, modificato con delibera n. 22430/2022)",
+      "source": "Consob - TUF e regolamenti attuativi / storico modifiche intermediari",
+      "source_page": "https://www.consob.it/web/area-pubblica/tuf-e-regolamenti-consob",
+      "url": "https://www.consob.it/documents/1912911/1950567/reg_consob_2018_20307.pdf",
+      "sha256": "153151bf9f01847098f186b963af278b6ca501299ef3d31455726d2fce57cb87",
+      "size": 1248383,
+      "last_checked": "2026-07-08",
+      "last_changed": "2026-07-08"
+    },
+    {
+      "name": "reg_consob_1999_11971.pdf",
+      "title": "Regolamento Emittenti Consob n. 11971/1999 (testo consolidato)",
+      "source": "Consob - TUF e regolamenti attuativi",
+      "source_page": "https://www.consob.it/web/area-pubblica/tuf-e-regolamenti-consob",
+      "url": "https://www.consob.it/documents/1912911/1950567/reg_consob_1999_11971.pdf",
+      "sha256": "ca18bbe3d840970379ae0ad96e6af0b464d0ad4870deeddc5977a5b45867dea1",
+      "size": 2561196,
+      "last_checked": "2026-07-08",
+      "last_changed": "2026-07-08"
+    },
+    {
+      "name": "reg_consob_2010_17221.pdf",
+      "title": "Regolamento Operazioni con Parti Correlate Consob n. 17221/2010",
+      "source": "Consob - TUF e regolamenti attuativi",
+      "source_page": "https://www.consob.it/web/area-pubblica/tuf-e-regolamenti-consob",
+      "url": "https://www.consob.it/documents/1912911/1950567/reg_consob_2010_17221.pdf",
+      "sha256": "856f6b7bfc93e035392c9005bafdb13773704e9dbceb127b368d2a5d0ab02929",
+      "size": 581589,
+      "last_checked": "2026-07-08",
+      "last_changed": "2026-07-08"
+    },
+    {
+      "name": "reg_consob_2017_20249.pdf",
+      "title": "Regolamento Mercati Consob n. 20249/2017",
+      "source": "Consob - TUF e regolamenti attuativi",
+      "source_page": "https://www.consob.it/web/area-pubblica/tuf-e-regolamenti-consob",
+      "url": "https://www.consob.it/documents/1912911/1950567/reg_consob_2017_20249.pdf",
+      "sha256": "2bea6ed4f578186f6ab4f27fcd041b8f7a419ac4194ef86f5bc557ffed51c474",
+      "size": 707911,
+      "last_checked": "2026-07-08",
+      "last_changed": "2026-07-08"
+    },
+    {
+      "name": "reg_consob_2023_22720.pdf",
+      "title": "Regolamento Crowdfunding Consob n. 22720/2023",
+      "source": "Consob - TUF e regolamenti attuativi",
+      "source_page": "https://www.consob.it/web/area-pubblica/tuf-e-regolamenti-consob",
+      "url": "https://www.consob.it/documents/1912911/1950567/reg_consob_2023_22720.pdf",
+      "sha256": "46ccb5c0e20f6efbb1cb0e741e6c73b33454b469228892fb763b62215a1109f1",
+      "size": 298981,
+      "last_checked": "2026-07-08",
+      "last_changed": "2026-07-08"
+    },
+    {
+      "name": "reg_consob_2023_22923.pdf",
+      "title": "Regolamento Emissione e Circolazione Digitale Strumenti Finanziari Consob n. 22923/2023",
+      "source": "Consob - TUF e regolamenti attuativi",
+      "source_page": "https://www.consob.it/web/area-pubblica/tuf-e-regolamenti-consob",
+      "url": "https://www.consob.it/documents/1912911/1950567/reg_consob_2023_22923.pdf",
+      "sha256": "3c6dafc16f1e67c9922422b7ed227d80dd2e8137a898fd2273516a0746a3be92",
+      "size": 139226,
+      "last_checked": "2026-07-08",
+      "last_changed": "2026-07-08"
+    }
+  ],
+  "notes": [
+    "Prima esecuzione: baseline stabilita, nessun confronto con settimana precedente, nessuna email inviata.",
+    "I PDF ufficiali scaricati sono archiviati nel repository in documenti/ (copia verbatim, identica alla fonte). Il confronto settimanale avviene tramite hash SHA-256 del contenuto; le versioni storiche restano nella cronologia git.",
+    "Copia su Google Drive (cartella 'Normativa OCF'): caricato indice.md. I PDF NON sono stati caricati su Drive perche' il connettore Google Drive accetta solo contenuto inline e il payload base64 di questi PDF (da 139 KB a 3,7 MB) eccede il limite di token di una singola chiamata: upload binario non fattibile con gli strumenti disponibili. Archivio PDF durevole = repository git (documenti/).",
+    "Il TUF (D.lgs. 58/1998) e i DM richiamati dall'OCF sono testi consolidati pubblicati su Normattiva (pagine HTML, non PDF stabili) e non vengono sottoposti a hash del contenuto: se ne monitora la pagina Consob/OCF di riferimento.",
+    "L'host documents.consob.it (versioni storiche del Regolamento Intermediari) non era raggiungibile tramite il proxy in questa esecuzione (502). Il testo consolidato equivalente del Reg. Intermediari 20307/2018 e' stato acquisito da www.consob.it (reg_consob_2018_20307.pdf, consolidato fino alla delibera 22430/2022)."
+  ]
+}
