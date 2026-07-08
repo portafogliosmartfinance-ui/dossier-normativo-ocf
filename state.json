@@ -1,1 +1,30 @@
-{}
+{
+  "schema_version": 1,
+  "baseline_established": false,
+  "last_run": {
+    "date": "2026-07-08",
+    "status": "blocked",
+    "reason": "network_egress_policy_denied",
+    "detail": "L'ambiente di esecuzione remoto blocca tutto il traffico HTTPS in uscita verso host pubblici. Il proxy di egress risponde 403 (policy denial) al CONNECT verso ogni host testato, incluse tutte le fonti ufficiali. Lo strumento WebFetch restituisce 403 anche su host generici (non utilizzabile). WebSearch funziona ma non consente di scaricare i PDF binari da confrontare/archiviare, e riassumere il testo normativo non e' consentito dalle istruzioni.",
+    "hosts_denied": [
+      "www.consob.it",
+      "consob.it",
+      "www.organismocf.it",
+      "www.bancaditalia.it",
+      "www.normattiva.it",
+      "www.gazzettaufficiale.it",
+      "eur-lex.europa.eu",
+      "www.google.com"
+    ],
+    "sources_intended": [
+      "https://www.consob.it/web/area-pubblica/tuf-e-regolamenti-consob",
+      "https://www.consob.it/web/area-pubblica/storico-modifiche-intermediari3",
+      "https://www.organismocf.it/portal/web/portale-ocf/normativa",
+      "https://www.bancaditalia.it/compiti/vigilanza/normativa/index.html",
+      "https://www.bancaditalia.it/compiti/vigilanza/intermediari/Testo-Unico-Bancario.pdf"
+    ],
+    "documents": {},
+    "email_sent": false,
+    "action_required": "Consentire l'accesso in uscita (allowlist di rete) verso consob.it, organismocf.it e bancaditalia.it nelle impostazioni dell'ambiente, oppure eseguire la routine in un ambiente con accesso a internet."
+  }
+}
