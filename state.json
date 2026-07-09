@@ -1,6 +1,6 @@
 {
   "routine": "Controllo normativo settimanale OCF",
-  "last_run": "2026-07-08",
+  "last_run": "2026-07-09",
   "drive_folder": "Normativa OCF",
   "drive_folder_id": "15-7Y-y1-gvk6JE9OQBUSAVGhh49SoXcN",
   "repo_archive_dir": "documenti/",
@@ -13,7 +13,7 @@
       "url": "https://www.bancaditalia.it/compiti/vigilanza/intermediari/Testo-Unico-Bancario.pdf",
       "sha256": "899a4d8228cd935da9987f236c193cfc0b7edf482c9931fe39e758ca13dfe703",
       "size": 3733816,
-      "last_checked": "2026-07-08",
+      "last_checked": "2026-07-09",
       "last_changed": "2026-07-08"
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://www.consob.it/documents/1912911/1950567/reg_consob_2018_20307.pdf",
       "sha256": "153151bf9f01847098f186b963af278b6ca501299ef3d31455726d2fce57cb87",
       "size": 1248383,
-      "last_checked": "2026-07-08",
+      "last_checked": "2026-07-09",
       "last_changed": "2026-07-08"
     },
     {
@@ -35,7 +35,7 @@
       "url": "https://www.consob.it/documents/1912911/1950567/reg_consob_1999_11971.pdf",
       "sha256": "ca18bbe3d840970379ae0ad96e6af0b464d0ad4870deeddc5977a5b45867dea1",
       "size": 2561196,
-      "last_checked": "2026-07-08",
+      "last_checked": "2026-07-09",
       "last_changed": "2026-07-08"
     },
     {
@@ -46,7 +46,7 @@
       "url": "https://www.consob.it/documents/1912911/1950567/reg_consob_2010_17221.pdf",
       "sha256": "856f6b7bfc93e035392c9005bafdb13773704e9dbceb127b368d2a5d0ab02929",
       "size": 581589,
-      "last_checked": "2026-07-08",
+      "last_checked": "2026-07-09",
       "last_changed": "2026-07-08"
     },
     {
@@ -57,7 +57,7 @@
       "url": "https://www.consob.it/documents/1912911/1950567/reg_consob_2017_20249.pdf",
       "sha256": "2bea6ed4f578186f6ab4f27fcd041b8f7a419ac4194ef86f5bc557ffed51c474",
       "size": 707911,
-      "last_checked": "2026-07-08",
+      "last_checked": "2026-07-09",
       "last_changed": "2026-07-08"
     },
     {
@@ -68,7 +68,7 @@
       "url": "https://www.consob.it/documents/1912911/1950567/reg_consob_2023_22720.pdf",
       "sha256": "46ccb5c0e20f6efbb1cb0e741e6c73b33454b469228892fb763b62215a1109f1",
       "size": 298981,
-      "last_checked": "2026-07-08",
+      "last_checked": "2026-07-09",
       "last_changed": "2026-07-08"
     },
     {
@@ -79,15 +79,136 @@
       "url": "https://www.consob.it/documents/1912911/1950567/reg_consob_2023_22923.pdf",
       "sha256": "3c6dafc16f1e67c9922422b7ed227d80dd2e8137a898fd2273516a0746a3be92",
       "size": 139226,
-      "last_checked": "2026-07-08",
+      "last_checked": "2026-07-09",
       "last_changed": "2026-07-08"
+    },
+    {
+      "name": "OCF_Codice_di_condotta.pdf",
+      "title": "Codice di condotta OCF — codice deontologico dei consulenti finanziari (aggiornato dal Consiglio Direttivo del 18 dicembre 2024)",
+      "source": "OCF — Organismo di vigilanza e tenuta dell'albo unico dei Consulenti Finanziari",
+      "source_page": "https://www.organismocf.it/portal/web/portale-ocf/regolamenti",
+      "url": "https://www.organismocf.it/portal/documents/40504/43281/Codice+di+Condotta+online+CD+18.12.24.pdf/89839139-4916-bd5c-5aa0-8b51c5c8dc30?t=1734947656386",
+      "sha256": "edc9458e18175799f24e22cd40e5b8a92fda703ad61fa9c515153dc3d1ebb1be",
+      "size": 574511,
+      "last_checked": "2026-07-09",
+      "last_changed": "2026-07-09"
+    },
+    {
+      "name": "OCF_Disposizioni_procedimenti_amministrativi.pdf",
+      "title": "Disposizioni generali sui procedimenti amministrativi dell'OCF (procedimenti di vigilanza, sanzionatori e disciplinari)",
+      "source": "OCF — Organismo di vigilanza e tenuta dell'albo unico dei Consulenti Finanziari",
+      "source_page": "https://www.organismocf.it/portal/web/portale-ocf/regolamenti",
+      "url": "https://www.organismocf.it/portal/documents/40504/43281/Disposizioni+generali+sui+procedimenti+amministrativi.pdf/fc290197-226d-7885-2ba2-787cf5d0b81b?t=1659696887951",
+      "sha256": "5c35ff722cc4adae95f5a54e069cdfdaa5e8b8960bbe11c66084e30fbb48e92a",
+      "size": 283918,
+      "last_checked": "2026-07-09",
+      "last_changed": "2026-07-09"
+    },
+    {
+      "name": "OCF_Regolamento_Interno_RIO_2022.pdf",
+      "title": "Regolamento Interno generale di Organizzazione e Attività (RIO) dell'OCF — 2022",
+      "source": "OCF — Organismo di vigilanza e tenuta dell'albo unico dei Consulenti Finanziari",
+      "source_page": "https://www.organismocf.it/portal/web/portale-ocf/regolamenti",
+      "url": "https://www.organismocf.it/portal/documents/40504/43281/RIO+OCF+2022.pdf/444001bb-7dc2-3f24-fca8-210001af237b?t=1659698337421",
+      "sha256": "85c88c168d2e3a4228d5a0c31157b340797f0639b8699c0fdb1f66662d7a61f5",
+      "size": 395842,
+      "last_checked": "2026-07-09",
+      "last_changed": "2026-07-09"
+    },
+    {
+      "name": "OCF_Statuto_2022.pdf",
+      "title": "Statuto dell'OCF — 2022",
+      "source": "OCF — Organismo di vigilanza e tenuta dell'albo unico dei Consulenti Finanziari",
+      "source_page": "https://www.organismocf.it/portal/web/portale-ocf/regolamenti",
+      "url": "https://www.organismocf.it/portal/documents/40504/43281/Statuto+OCF+2022.pdf/752dde9f-dfca-6bdd-e1a6-335c8cc12d8c?t=1659698232622",
+      "sha256": "d592ce6760c1059e31bbcc78a17ddc96b7e6bd39b5b1589bad5630cbf7d54cfd",
+      "size": 229914,
+      "last_checked": "2026-07-09",
+      "last_changed": "2026-07-09"
+    },
+    {
+      "name": "OCF_Disposizioni_iscrizione_albo.pdf",
+      "title": "Disposizioni per la presentazione della domanda di iscrizione all'albo unico dei consulenti finanziari (delibera 28 maggio 2018, n. 925)",
+      "source": "OCF — Organismo di vigilanza e tenuta dell'albo unico dei Consulenti Finanziari",
+      "source_page": "https://www.organismocf.it/portal/web/portale-ocf/regolamenti",
+      "url": "https://www.organismocf.it/portal/documents/40504/0/disposizioni+adottate+con+delibera+del+28+maggio+2018%2C+n.+925.pdf/010f474f-3470-9c86-6a18-6e9c7b02dcc2?t=1659697006415",
+      "sha256": "3f08d18226ce857ec4640f71fdbe1bac3d87241387955b2ec38182443ba764b3",
+      "size": 379152,
+      "last_checked": "2026-07-09",
+      "last_changed": "2026-07-09"
+    },
+    {
+      "name": "Antiriciclaggio_BdI_adeguata_verifica.pdf",
+      "title": "Disposizioni in materia di adeguata verifica della clientela per il contrasto del riciclaggio e del finanziamento del terrorismo (Banca d'Italia, versione integrale)",
+      "source": "Banca d'Italia — Supervisione e normativa antiriciclaggio",
+      "source_page": "https://www.bancaditalia.it/compiti/supervisione-normativa-antiriciclaggio/normativa/archivio-norme/adeguata-verifica-clientela/index.html",
+      "url": "https://www.bancaditalia.it/compiti/supervisione-normativa-antiriciclaggio/normativa/archivio-norme/adeguata-verifica-clientela/Disposizioni-adeguata-verifica_versione-integrale.pdf",
+      "sha256": "606c18a0576fa6f491919b727eee93f6493fbd25676da92e0e5f57acdee6f72e",
+      "size": 691513,
+      "last_checked": "2026-07-09",
+      "last_changed": "2026-07-09"
+    },
+    {
+      "name": "Antiriciclaggio_BdI_organizzazione_procedure_controlli.pdf",
+      "title": "Disposizioni in materia di organizzazione, procedure e controlli interni antiriciclaggio (Banca d'Italia, versione integrale)",
+      "source": "Banca d'Italia — Supervisione e normativa antiriciclaggio",
+      "source_page": "https://www.bancaditalia.it/compiti/supervisione-normativa-antiriciclaggio/normativa/archivio-norme/disposizioni-organizzazione/index.html",
+      "url": "https://www.bancaditalia.it/compiti/vigilanza/normativa/archivio-norme/disposizioni/controlli-interni-antiriciclaggio/Disposizioni_controlli_interni_versione_integrale.pdf",
+      "sha256": "d3a5e96a7d97d687bc29d892fa0eb26e72b15cee86e76531dcc72e49c030ace1",
+      "size": 1450814,
+      "last_checked": "2026-07-09",
+      "last_changed": "2026-07-09"
     }
   ],
   "notes": [
-    "Prima esecuzione: baseline stabilita, nessun confronto con settimana precedente, nessuna email inviata.",
-    "I PDF ufficiali scaricati sono archiviati nel repository in documenti/ (copia verbatim, identica alla fonte). Il confronto settimanale avviene tramite hash SHA-256 del contenuto; le versioni storiche restano nella cronologia git.",
-    "Copia su Google Drive (cartella 'Normativa OCF'): caricato indice.md. I PDF NON sono stati caricati su Drive perche' il connettore Google Drive accetta solo contenuto inline e il payload base64 di questi PDF (da 139 KB a 3,7 MB) eccede il limite di token di una singola chiamata: upload binario non fattibile con gli strumenti disponibili. Archivio PDF durevole = repository git (documenti/).",
-    "Il TUF (D.lgs. 58/1998) e i DM richiamati dall'OCF sono testi consolidati pubblicati su Normattiva (pagine HTML, non PDF stabili) e non vengono sottoposti a hash del contenuto: se ne monitora la pagina Consob/OCF di riferimento.",
-    "L'host documents.consob.it (versioni storiche del Regolamento Intermediari) non era raggiungibile tramite il proxy in questa esecuzione (502). Il testo consolidato equivalente del Reg. Intermediari 20307/2018 e' stato acquisito da www.consob.it (reg_consob_2018_20307.pdf, consolidato fino alla delibera 22430/2022)."
-  ]
+    "Esecuzione 2026-07-09 (2a run): i 7 documenti della baseline risultano INVARIATI (hash SHA-256 identici alla settimana precedente).",
+    "Aggiunti 7 nuovi documenti ufficiali in PDF: 5 regolamenti OCF (Codice di condotta/deontologico, Disposizioni sui procedimenti amministrativi=disciplinare/sanzionatorio, RIO, Statuto, Disposizioni iscrizione albo) e 2 disposizioni antiriciclaggio Banca d'Italia (adeguata verifica; organizzazione, procedure e controlli). Coprono la fonte fissa n.3 (OCF) e l'area antiriciclaggio richiesta.",
+    "Aree stabilizzate in 'stabilized_sources': OCF regolamenti, antiriciclaggio (BdI/UIF), privacy (Garante). Le settimane successive ripartono da queste pagine indice gia' verificate.",
+    "PRIVACY non scaricata in questa run: garanteprivacy.it, normattiva.it ed eur-lex.europa.eu sono bloccati dalla policy di egress dell'ambiente (403 CONNECT). L'area e' registrata come fonte stabilizzata e verra' acquisita quando l'host sara' raggiungibile.",
+    "I PDF ufficiali scaricati sono archiviati in documenti/ (copia verbatim). Il confronto settimanale avviene tramite hash SHA-256; le versioni storiche restano nella cronologia git.",
+    "Copia su Google Drive (cartella 'Normativa OCF'): mantenuto aggiornato solo indice.md. I PDF binari restano solo nel repository (limite del connettore Drive).",
+    "Il TUF (D.lgs. 58/1998), i DM richiamati dall'OCF e i testi consolidati su Normattiva/EUR-Lex sono pagine HTML non-PDF-stabili: monitorati tramite la pagina di riferimento, non sottoposti ad hash del contenuto."
+  ],
+  "stabilized_sources": {
+    "fonti_fisse": [
+      {
+        "nome": "Consob — TUF e regolamenti Consob",
+        "pagina_indice": "https://www.consob.it/web/area-pubblica/tuf-e-regolamenti-consob"
+      },
+      {
+        "nome": "Consob — Storico modifiche Regolamento Intermediari 20307/2018",
+        "pagina_indice": "https://www.consob.it/web/area-pubblica/storico-modifiche-intermediari3"
+      },
+      {
+        "nome": "OCF — Normativa (quadro legislativo di riferimento)",
+        "pagina_indice": "https://www.organismocf.it/portal/web/portale-ocf/normativa"
+      },
+      {
+        "nome": "Banca d'Italia — Vigilanza / Normativa (TUB e disposizioni di vigilanza)",
+        "pagina_indice": "https://www.bancaditalia.it/compiti/vigilanza/normativa/index.html"
+      }
+    ],
+    "aree_stabilizzate": [
+      {
+        "area": "OCF — regolamenti dell'Organismo (Codice di condotta/deontologico, procedimenti sanzionatori e disciplinari, RIO, Statuto, iscrizione albo)",
+        "pagina_indice": "https://www.organismocf.it/portal/web/portale-ocf/regolamenti",
+        "identificata_il": "2026-07-09",
+        "note": "Copre il codice deontologico e il regolamento disciplinare/sanzionatorio OCF richiesti (integra la fonte fissa n.3)."
+      },
+      {
+        "area": "Antiriciclaggio — soggetti obbligati (D.Lgs. 231/2007 e disposizioni attuative Banca d'Italia)",
+        "pagina_indice": "https://www.bancaditalia.it/compiti/supervisione-normativa-antiriciclaggio/normativa/",
+        "fonte_uif": "https://uif.bancaditalia.it/normativa/norm-antiricic/index.html",
+        "testo_base_consolidato": "D.Lgs. 21 novembre 2007, n. 231 — testo consolidato su Normattiva (pagina HTML, non PDF stabile; host attualmente non raggiungibile per policy di rete)",
+        "identificata_il": "2026-07-09"
+      },
+      {
+        "area": "Privacy — protezione dati personali dei clienti (Codice Privacy D.Lgs. 196/2003 coordinato con D.Lgs. 101/2018 e Reg. UE 2016/679 GDPR)",
+        "pagina_indice": "https://www.garanteprivacy.it/codice",
+        "pagina_gdpr": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:02016R0679-20160504",
+        "identificata_il": "2026-07-09",
+        "stato_download": "NON scaricato in questa esecuzione: gli host garanteprivacy.it, normattiva.it ed eur-lex.europa.eu risultano bloccati dalla policy di egress dell'ambiente (403). Fonte registrata; verrà scaricata e sottoposta ad hash appena l'host sarà raggiungibile."
+      }
+    ]
+  }
 }
