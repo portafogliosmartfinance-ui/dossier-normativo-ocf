@@ -158,13 +158,36 @@
       "size": 1450814,
       "last_checked": "2026-07-09",
       "last_changed": "2026-07-09"
+    },
+    {
+      "name": "Privacy_Codice_196_2003_consolidato.pdf",
+      "title": "Codice in materia di protezione dei dati personali — testo coordinato (D.Lgs. 196/2003 coordinato con il D.Lgs. 101/2018)",
+      "source": "Garante per la protezione dei dati personali",
+      "source_page": "https://www.garanteprivacy.it/codice",
+      "url": "https://www.garanteprivacy.it/documents/10160/0/Codice+in+materia+di+protezione+dei+dati+personali+%28Testo+coordinato%29.pdf/b1787d6b-6bce-07da-a38f-3742e3888c1d?version=15.0",
+      "sha256": "dbd6f5ca0a747c349583ed0e1118b4e66dd1cfdb12c9c948a8ac4e92cae46e13",
+      "size": 675446,
+      "last_checked": "2026-07-09",
+      "last_changed": "2026-07-09"
+    },
+    {
+      "name": "Privacy_GDPR_2016_679_consolidato.pdf",
+      "title": "Regolamento (UE) 2016/679 — GDPR, testo consolidato (CELEX 02016R0679-20160504, versione italiana)",
+      "source": "EUR-Lex — Ufficio delle pubblicazioni dell'Unione europea",
+      "source_page": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:02016R0679-20160504",
+      "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:02016R0679-20160504",
+      "sha256": "ac72be7c4dfac98aa43a8f122ca21bddf79476a62cda0f1aa72e6db19b90a2b4",
+      "size": 775161,
+      "last_checked": "2026-07-09",
+      "last_changed": "2026-07-09"
     }
   ],
   "notes": [
-    "Esecuzione 2026-07-09 (2a run): i 7 documenti della baseline risultano INVARIATI (hash SHA-256 identici alla settimana precedente).",
-    "Aggiunti 7 nuovi documenti ufficiali in PDF: 5 regolamenti OCF (Codice di condotta/deontologico, Disposizioni sui procedimenti amministrativi=disciplinare/sanzionatorio, RIO, Statuto, Disposizioni iscrizione albo) e 2 disposizioni antiriciclaggio Banca d'Italia (adeguata verifica; organizzazione, procedure e controlli). Coprono la fonte fissa n.3 (OCF) e l'area antiriciclaggio richiesta.",
-    "Aree stabilizzate in 'stabilized_sources': OCF regolamenti, antiriciclaggio (BdI/UIF), privacy (Garante). Le settimane successive ripartono da queste pagine indice gia' verificate.",
-    "PRIVACY non scaricata in questa run: garanteprivacy.it, normattiva.it ed eur-lex.europa.eu sono bloccati dalla policy di egress dell'ambiente (403 CONNECT). L'area e' registrata come fonte stabilizzata e verra' acquisita quando l'host sara' raggiungibile.",
+    "Esecuzione 2026-07-09 (3a run): i 14 documenti gia' tracciati risultano INVARIATI (hash SHA-256 identici alla settimana precedente).",
+    "PRIVACY ora acquisita: gli host garanteprivacy.it ed eur-lex.europa.eu, bloccati (403) nelle run precedenti, sono raggiungibili in questa esecuzione. Aggiunti 2 nuovi documenti PDF: Codice Privacy testo coordinato (D.Lgs. 196/2003 + D.Lgs. 101/2018, dal Garante) e GDPR Reg. UE 2016/679 testo consolidato (EUR-Lex CELEX 02016R0679). Chiude l'area privacy rimasta in sospeso.",
+    "Discovery 2026-07-09: la pagina Consob TUF conferma che il TUF (D.lgs. 58/1998) non e' pubblicato come PDF su consob.it (solo rimando a Normattiva, HTML): resta monitorato via pagina di riferimento. Sulla stessa pagina e' presente il 'Regolamento post-trading Consob/BdI 2018': NON aggiunto perche' relativo a compensazione/liquidazione (infrastrutture di mercato), non pertinente all'attivita' di consulenza finanziaria indipendente fee-only.",
+    "Baseline storica: 7 documenti iniziali (6 regolamenti Consob + TUB) + 7 aggiunti nella 2a run (5 regolamenti OCF + 2 disposizioni antiriciclaggio BdI). Totale documenti tracciati ora: 16.",
+    "Aree stabilizzate in 'stabilized_sources': OCF regolamenti, antiriciclaggio (BdI/UIF), privacy (Garante + EUR-Lex). Le settimane successive ripartono da queste pagine indice gia' verificate.",
     "I PDF ufficiali scaricati sono archiviati in documenti/ (copia verbatim). Il confronto settimanale avviene tramite hash SHA-256; le versioni storiche restano nella cronologia git.",
     "Copia su Google Drive (cartella 'Normativa OCF'): mantenuto aggiornato solo indice.md. I PDF binari restano solo nel repository (limite del connettore Drive).",
     "Il TUF (D.lgs. 58/1998), i DM richiamati dall'OCF e i testi consolidati su Normattiva/EUR-Lex sono pagine HTML non-PDF-stabili: monitorati tramite la pagina di riferimento, non sottoposti ad hash del contenuto."
@@ -207,7 +230,7 @@
         "pagina_indice": "https://www.garanteprivacy.it/codice",
         "pagina_gdpr": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:02016R0679-20160504",
         "identificata_il": "2026-07-09",
-        "stato_download": "NON scaricato in questa esecuzione: gli host garanteprivacy.it, normattiva.it ed eur-lex.europa.eu risultano bloccati dalla policy di egress dell'ambiente (403). Fonte registrata; verrà scaricata e sottoposta ad hash appena l'host sarà raggiungibile."
+        "stato_download": "SCARICATO il 2026-07-09: host raggiungibili in questa esecuzione. Acquisiti 2 PDF stabili — Codice Privacy testo coordinato (Garante) e GDPR consolidato (EUR-Lex CELEX 02016R0679). Ora sottoposti ad hash SHA-256 come gli altri documenti tracciati."
       }
     ]
   }

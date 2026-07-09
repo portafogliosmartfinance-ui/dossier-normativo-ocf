@@ -5,7 +5,7 @@ settimanale di controllo. Ogni PDF in `documenti/` è identico all'originale sca
 dalla fonte ufficiale (nessuna rielaborazione del testo).
 
 **Ultimo controllo:** 9 luglio 2026
-**Esito:** i 7 documenti della baseline sono **invariati** (hash SHA-256 identici). Aggiunti **7 nuovi documenti** (5 regolamenti OCF + 2 disposizioni antiriciclaggio Banca d'Italia) e stabilizzate le fonti per le aree **OCF regolamenti**, **antiriciclaggio** e **privacy**.
+**Esito:** i 14 documenti già tracciati sono **invariati** (hash SHA-256 identici). Aggiunti **2 nuovi documenti** che chiudono l'area **privacy**, rimasta in sospeso la settimana precedente perché gli host risultavano bloccati (403): **Codice Privacy** (testo coordinato, Garante) e **GDPR** (testo consolidato, EUR-Lex). Totale documenti monitorati: **16**.
 
 ## Documenti monitorati
 
@@ -39,12 +39,18 @@ dalla fonte ufficiale (nessuna rielaborazione del testo).
 | 13 | Disposizioni in materia di adeguata verifica della clientela (versione integrale) | `Antiriciclaggio_BdI_adeguata_verifica.pdf` | [BdI — Antiriciclaggio / Adeguata verifica](https://www.bancaditalia.it/compiti/supervisione-normativa-antiriciclaggio/normativa/archivio-norme/adeguata-verifica-clientela/index.html) | 09/07/2026 |
 | 14 | Disposizioni su organizzazione, procedure e controlli interni antiriciclaggio (versione integrale) | `Antiriciclaggio_BdI_organizzazione_procedure_controlli.pdf` | [BdI — Antiriciclaggio / Organizzazione](https://www.bancaditalia.it/compiti/supervisione-normativa-antiriciclaggio/normativa/archivio-norme/disposizioni-organizzazione/index.html) | 09/07/2026 |
 
+### Privacy — protezione dati dei clienti *(nuovi, agg. 09/07/2026)*
+| # | Documento | File | Fonte (pagina indice) | Ultimo controllo |
+|---|-----------|------|-----------------------|------------------|
+| 15 | Codice in materia di protezione dei dati personali — testo coordinato (D.Lgs. 196/2003 + D.Lgs. 101/2018) | `Privacy_Codice_196_2003_consolidato.pdf` | [Garante Privacy — Codice](https://www.garanteprivacy.it/codice) | 09/07/2026 |
+| 16 | Regolamento (UE) 2016/679 — GDPR, testo consolidato (CELEX 02016R0679, versione IT) | `Privacy_GDPR_2016_679_consolidato.pdf` | [EUR-Lex — GDPR consolidato](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:02016R0679-20160504) | 09/07/2026 |
+
 ## Fonti stabilizzate (aree da monitorare)
 
 - **OCF regolamenti** — [organismocf.it/.../regolamenti](https://www.organismocf.it/portal/web/portale-ocf/regolamenti) — copre codice deontologico e regolamento disciplinare/sanzionatorio OCF.
 - **Antiriciclaggio (soggetti obbligati)** — [Banca d'Italia — Supervisione e normativa antiriciclaggio](https://www.bancaditalia.it/compiti/supervisione-normativa-antiriciclaggio/normativa/) · [UIF](https://uif.bancaditalia.it/normativa/norm-antiricic/index.html). Testo base: D.Lgs. 231/2007 (consolidato su Normattiva, pagina HTML).
-- **Privacy (dati dei clienti)** — [Garante Privacy — Codice](https://www.garanteprivacy.it/codice) (D.Lgs. 196/2003 coordinato con D.Lgs. 101/2018) · GDPR Reg. UE 2016/679.
-  ⚠️ **Non scaricata il 09/07/2026:** gli host `garanteprivacy.it`, `normattiva.it` ed `eur-lex.europa.eu` risultano **bloccati dalla policy di rete dell'ambiente (403)**. Fonte registrata; il PDF verrà acquisito e sottoposto ad hash appena l'host sarà raggiungibile.
+- **Privacy (dati dei clienti)** — [Garante Privacy — Codice](https://www.garanteprivacy.it/codice) (D.Lgs. 196/2003 coordinato con D.Lgs. 101/2018) · [GDPR Reg. UE 2016/679](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:02016R0679-20160504).
+  ✅ **Acquisita il 09/07/2026:** host raggiungibili in questa esecuzione (erano bloccati con 403 la settimana precedente). Scaricati e sottoposti ad hash i due PDF stabili (voci 15 e 16). L'area privacy è ora coperta come le altre.
 
 ## Note
 
