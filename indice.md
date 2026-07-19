@@ -4,51 +4,53 @@ Copia di consultazione dei documenti normativi ufficiali monitorati dalla routin
 settimanale di controllo. Ogni PDF in `documenti/` è identico all'originale scaricato
 dalla fonte ufficiale (nessuna rielaborazione del testo).
 
-**Ultimo controllo:** 12 luglio 2026
-**Esito:** i 16 documenti già tracciati sono **invariati** (hash SHA-256 identici). **Nuova fonte aggiunta:** il **TUF (D.Lgs. 58/1998)** è ora individuato come **PDF ufficiale su consob.it** (correzione della conclusione della settimana precedente, che lo dava disponibile solo in HTML/Normattiva). Il PDF pesa ~106 MB e supera il limite di 100 MB per singolo file di GitHub, perciò **non è archiviato come binario** in `documenti/`: è monitorato **per reference** (ri-scaricato e confrontato ogni settimana tramite hash SHA-256). Totale fonti monitorate: **17** (16 archiviate + 1 per reference).
+**Ultimo controllo:** 19 luglio 2026
+**Esito:** i 17 documenti già tracciati (16 archiviati + TUF per reference) sono **invariati** (hash SHA-256 identici). **2 nuove fonti aggiunte** dall'area regolamenti OCF, entrambe sul regime disciplinare/sanzionatorio dei consulenti finanziari: (1) il **Testo coordinato delle Disposizioni sui procedimenti amministrativi**, **efficace dal 1° gennaio 2026** (aggiorna il testo 2022 già tracciato con le delibere n. 2671/2025 e n. 2873/2025); (2) i **Criteri generali per l'audizione nei procedimenti di vigilanza** (delibera n. 2634/2024). Totale fonti monitorate: **19** (18 archiviate + 1 per reference).
 
 ## Documenti monitorati
 
 ### Consob — TUF e regolamenti attuativi
 | # | Documento | File | Fonte (pagina indice) | Ultimo controllo |
 |---|-----------|------|-----------------------|------------------|
-| 1 | Regolamento Intermediari Consob n. 20307/2018 (consolidato, delibera 22430/2022) | `reg_consob_2018_20307.pdf` | [TUF e regolamenti](https://www.consob.it/web/area-pubblica/tuf-e-regolamenti-consob) · [Storico modifiche intermediari](https://www.consob.it/web/area-pubblica/storico-modifiche-intermediari3) | 12/07/2026 |
-| 2 | Regolamento Emittenti Consob n. 11971/1999 | `reg_consob_1999_11971.pdf` | [TUF e regolamenti](https://www.consob.it/web/area-pubblica/tuf-e-regolamenti-consob) | 12/07/2026 |
-| 3 | Regolamento Operazioni con Parti Correlate Consob n. 17221/2010 | `reg_consob_2010_17221.pdf` | [TUF e regolamenti](https://www.consob.it/web/area-pubblica/tuf-e-regolamenti-consob) | 12/07/2026 |
-| 4 | Regolamento Mercati Consob n. 20249/2017 | `reg_consob_2017_20249.pdf` | [TUF e regolamenti](https://www.consob.it/web/area-pubblica/tuf-e-regolamenti-consob) | 12/07/2026 |
-| 5 | Regolamento Crowdfunding Consob n. 22720/2023 | `reg_consob_2023_22720.pdf` | [TUF e regolamenti](https://www.consob.it/web/area-pubblica/tuf-e-regolamenti-consob) | 12/07/2026 |
-| 6 | Regolamento Emissione e Circolazione Digitale Strumenti Finanziari Consob n. 22923/2023 | `reg_consob_2023_22923.pdf` | [TUF e regolamenti](https://www.consob.it/web/area-pubblica/tuf-e-regolamenti-consob) | 12/07/2026 |
+| 1 | Regolamento Intermediari Consob n. 20307/2018 (consolidato, delibera 22430/2022) | `reg_consob_2018_20307.pdf` | [TUF e regolamenti](https://www.consob.it/web/area-pubblica/tuf-e-regolamenti-consob) · [Storico modifiche intermediari](https://www.consob.it/web/area-pubblica/storico-modifiche-intermediari3) | 19/07/2026 |
+| 2 | Regolamento Emittenti Consob n. 11971/1999 | `reg_consob_1999_11971.pdf` | [TUF e regolamenti](https://www.consob.it/web/area-pubblica/tuf-e-regolamenti-consob) | 19/07/2026 |
+| 3 | Regolamento Operazioni con Parti Correlate Consob n. 17221/2010 | `reg_consob_2010_17221.pdf` | [TUF e regolamenti](https://www.consob.it/web/area-pubblica/tuf-e-regolamenti-consob) | 19/07/2026 |
+| 4 | Regolamento Mercati Consob n. 20249/2017 | `reg_consob_2017_20249.pdf` | [TUF e regolamenti](https://www.consob.it/web/area-pubblica/tuf-e-regolamenti-consob) | 19/07/2026 |
+| 5 | Regolamento Crowdfunding Consob n. 22720/2023 | `reg_consob_2023_22720.pdf` | [TUF e regolamenti](https://www.consob.it/web/area-pubblica/tuf-e-regolamenti-consob) | 19/07/2026 |
+| 6 | Regolamento Emissione e Circolazione Digitale Strumenti Finanziari Consob n. 22923/2023 | `reg_consob_2023_22923.pdf` | [TUF e regolamenti](https://www.consob.it/web/area-pubblica/tuf-e-regolamenti-consob) | 19/07/2026 |
 
 ### Consob — TUF (Testo Unico della Finanza) *(nuova fonte, agg. 12/07/2026 — monitorata per reference)*
 | # | Documento | File | Fonte (pagina indice) | Ultimo controllo |
 |---|-----------|------|-----------------------|------------------|
-| — | Testo Unico della Finanza — D.Lgs. 58/1998 (PDF ufficiale Consob, ~106 MB) — **non archiviato nel repo** (supera il limite 100 MB/file di GitHub); monitorato via hash SHA-256 | *(per reference, non in `documenti/`)* | [TUF e regolamenti](https://www.consob.it/web/area-pubblica/tuf-e-regolamenti-consob) → `dlgs58_1998.pdf` | 12/07/2026 |
+| — | Testo Unico della Finanza — D.Lgs. 58/1998 (PDF ufficiale Consob, ~106 MB) — **non archiviato nel repo** (supera il limite 100 MB/file di GitHub); monitorato via hash SHA-256 | *(per reference, non in `documenti/`)* | [TUF e regolamenti](https://www.consob.it/web/area-pubblica/tuf-e-regolamenti-consob) → `dlgs58_1998.pdf` | 19/07/2026 |
 
 ### Banca d'Italia — Testo Unico Bancario
 | # | Documento | File | Fonte (pagina indice) | Ultimo controllo |
 |---|-----------|------|-----------------------|------------------|
-| 7 | Testo Unico Bancario (D.lgs. 385/1993 e s.m.i.) | `Testo-Unico-Bancario.pdf` | [Vigilanza / Normativa](https://www.bancaditalia.it/compiti/vigilanza/normativa/index.html) | 12/07/2026 |
+| 7 | Testo Unico Bancario (D.lgs. 385/1993 e s.m.i.) | `Testo-Unico-Bancario.pdf` | [Vigilanza / Normativa](https://www.bancaditalia.it/compiti/vigilanza/normativa/index.html) | 19/07/2026 |
 
 ### OCF — regolamenti dell'Organismo *(nuovi, agg. 09/07/2026)*
 | # | Documento | File | Fonte (pagina indice) | Ultimo controllo |
 |---|-----------|------|-----------------------|------------------|
-| 8 | Codice di condotta OCF — codice deontologico dei consulenti finanziari (agg. CD 18/12/2024) | `OCF_Codice_di_condotta.pdf` | [OCF — Regolamenti](https://www.organismocf.it/portal/web/portale-ocf/regolamenti) | 12/07/2026 |
-| 9 | Disposizioni generali sui procedimenti amministrativi OCF (procedimenti di vigilanza, sanzionatori e disciplinari) | `OCF_Disposizioni_procedimenti_amministrativi.pdf` | [OCF — Regolamenti](https://www.organismocf.it/portal/web/portale-ocf/regolamenti) | 12/07/2026 |
-| 10 | Regolamento Interno generale di Organizzazione e Attività (RIO) — 2022 | `OCF_Regolamento_Interno_RIO_2022.pdf` | [OCF — Regolamenti](https://www.organismocf.it/portal/web/portale-ocf/regolamenti) | 12/07/2026 |
-| 11 | Statuto OCF — 2022 | `OCF_Statuto_2022.pdf` | [OCF — Regolamenti](https://www.organismocf.it/portal/web/portale-ocf/regolamenti) | 12/07/2026 |
-| 12 | Disposizioni per la presentazione della domanda di iscrizione all'albo (delibera 28/05/2018 n. 925) | `OCF_Disposizioni_iscrizione_albo.pdf` | [OCF — Regolamenti](https://www.organismocf.it/portal/web/portale-ocf/regolamenti) | 12/07/2026 |
+| 8 | Codice di condotta OCF — codice deontologico dei consulenti finanziari (agg. CD 18/12/2024) | `OCF_Codice_di_condotta.pdf` | [OCF — Regolamenti](https://www.organismocf.it/portal/web/portale-ocf/regolamenti) | 19/07/2026 |
+| 9 | Disposizioni generali sui procedimenti amministrativi OCF (procedimenti di vigilanza, sanzionatori e disciplinari) | `OCF_Disposizioni_procedimenti_amministrativi.pdf` | [OCF — Regolamenti](https://www.organismocf.it/portal/web/portale-ocf/regolamenti) | 19/07/2026 |
+| 10 | Regolamento Interno generale di Organizzazione e Attività (RIO) — 2022 | `OCF_Regolamento_Interno_RIO_2022.pdf` | [OCF — Regolamenti](https://www.organismocf.it/portal/web/portale-ocf/regolamenti) | 19/07/2026 |
+| 11 | Statuto OCF — 2022 | `OCF_Statuto_2022.pdf` | [OCF — Regolamenti](https://www.organismocf.it/portal/web/portale-ocf/regolamenti) | 19/07/2026 |
+| 12 | Disposizioni per la presentazione della domanda di iscrizione all'albo (delibera 28/05/2018 n. 925) | `OCF_Disposizioni_iscrizione_albo.pdf` | [OCF — Regolamenti](https://www.organismocf.it/portal/web/portale-ocf/regolamenti) | 19/07/2026 |
+| 17 | **Testo coordinato Disposizioni sui procedimenti amministrativi OCF — efficace dal 1° gennaio 2026** (delibera 6/07/2022 n. 1967, come modif. da delibera 18/02/2025 n. 2671 e delibera 18/12/2025 n. 2873). *Versione vigente; aggiorna la voce 9, che resta come testo storico 2022.* | `OCF_Testo_coordinato_procedimenti_amministrativi_2026.pdf` | [OCF — Regolamenti](https://www.organismocf.it/portal/web/portale-ocf/regolamenti) | 19/07/2026 |
+| 18 | **Criteri generali per l'audizione nei procedimenti di vigilanza** (delibera Comitato di Vigilanza 17/12/2024 n. 2634) — diritto del consulente di essere sentito nel procedimento sanzionatorio (art. 196 TUF) | `OCF_Criteri_generali_audizione.pdf` | [OCF — Regolamenti](https://www.organismocf.it/portal/web/portale-ocf/regolamenti) | 19/07/2026 |
 
 ### Antiriciclaggio — Banca d'Italia *(nuovi, agg. 09/07/2026)*
 | # | Documento | File | Fonte (pagina indice) | Ultimo controllo |
 |---|-----------|------|-----------------------|------------------|
-| 13 | Disposizioni in materia di adeguata verifica della clientela (versione integrale) | `Antiriciclaggio_BdI_adeguata_verifica.pdf` | [BdI — Antiriciclaggio / Adeguata verifica](https://www.bancaditalia.it/compiti/supervisione-normativa-antiriciclaggio/normativa/archivio-norme/adeguata-verifica-clientela/index.html) | 12/07/2026 |
-| 14 | Disposizioni su organizzazione, procedure e controlli interni antiriciclaggio (versione integrale) | `Antiriciclaggio_BdI_organizzazione_procedure_controlli.pdf` | [BdI — Antiriciclaggio / Organizzazione](https://www.bancaditalia.it/compiti/supervisione-normativa-antiriciclaggio/normativa/archivio-norme/disposizioni-organizzazione/index.html) | 12/07/2026 |
+| 13 | Disposizioni in materia di adeguata verifica della clientela (versione integrale) | `Antiriciclaggio_BdI_adeguata_verifica.pdf` | [BdI — Antiriciclaggio / Adeguata verifica](https://www.bancaditalia.it/compiti/supervisione-normativa-antiriciclaggio/normativa/archivio-norme/adeguata-verifica-clientela/index.html) | 19/07/2026 |
+| 14 | Disposizioni su organizzazione, procedure e controlli interni antiriciclaggio (versione integrale) | `Antiriciclaggio_BdI_organizzazione_procedure_controlli.pdf` | [BdI — Antiriciclaggio / Organizzazione](https://www.bancaditalia.it/compiti/supervisione-normativa-antiriciclaggio/normativa/archivio-norme/disposizioni-organizzazione/index.html) | 19/07/2026 |
 
 ### Privacy — protezione dati dei clienti *(nuovi, agg. 09/07/2026)*
 | # | Documento | File | Fonte (pagina indice) | Ultimo controllo |
 |---|-----------|------|-----------------------|------------------|
-| 15 | Codice in materia di protezione dei dati personali — testo coordinato (D.Lgs. 196/2003 + D.Lgs. 101/2018) | `Privacy_Codice_196_2003_consolidato.pdf` | [Garante Privacy — Codice](https://www.garanteprivacy.it/codice) | 12/07/2026 |
-| 16 | Regolamento (UE) 2016/679 — GDPR, testo consolidato (CELEX 02016R0679, versione IT) | `Privacy_GDPR_2016_679_consolidato.pdf` | [EUR-Lex — GDPR consolidato](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:02016R0679-20160504) | 12/07/2026 |
+| 15 | Codice in materia di protezione dei dati personali — testo coordinato (D.Lgs. 196/2003 + D.Lgs. 101/2018) | `Privacy_Codice_196_2003_consolidato.pdf` | [Garante Privacy — Codice](https://www.garanteprivacy.it/codice) | 19/07/2026 |
+| 16 | Regolamento (UE) 2016/679 — GDPR, testo consolidato (CELEX 02016R0679, versione IT) | `Privacy_GDPR_2016_679_consolidato.pdf` | [EUR-Lex — GDPR consolidato](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:02016R0679-20160504) | 19/07/2026 |
 
 ## Fonti stabilizzate (aree da monitorare)
 
