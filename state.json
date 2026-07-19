@@ -1,6 +1,6 @@
 {
   "routine": "Controllo normativo settimanale OCF",
-  "last_run": "2026-07-12",
+  "last_run": "2026-07-19",
   "drive_folder": "Normativa OCF",
   "drive_folder_id": "15-7Y-y1-gvk6JE9OQBUSAVGhh49SoXcN",
   "repo_archive_dir": "documenti/",
@@ -16,7 +16,7 @@
       "size": 111794911,
       "archived_in_repo": false,
       "archive_note": "PDF ufficiale di ~106 MB (435 pagine): supera il limite di 100 MB per singolo file di GitHub, quindi NON e' archiviabile come binario nel repository. Monitorato per reference: ri-scaricato e confrontato ogni settimana tramite hash SHA-256, senza salvare il binario in documenti/.",
-      "last_checked": "2026-07-12",
+      "last_checked": "2026-07-19",
       "last_changed": "2026-07-12"
     },
     {
@@ -27,7 +27,7 @@
       "url": "https://www.bancaditalia.it/compiti/vigilanza/intermediari/Testo-Unico-Bancario.pdf",
       "sha256": "899a4d8228cd935da9987f236c193cfc0b7edf482c9931fe39e758ca13dfe703",
       "size": 3733816,
-      "last_checked": "2026-07-12",
+      "last_checked": "2026-07-19",
       "last_changed": "2026-07-08"
     },
     {
@@ -38,7 +38,7 @@
       "url": "https://www.consob.it/documents/1912911/1950567/reg_consob_2018_20307.pdf",
       "sha256": "153151bf9f01847098f186b963af278b6ca501299ef3d31455726d2fce57cb87",
       "size": 1248383,
-      "last_checked": "2026-07-12",
+      "last_checked": "2026-07-19",
       "last_changed": "2026-07-08"
     },
     {
@@ -49,7 +49,7 @@
       "url": "https://www.consob.it/documents/1912911/1950567/reg_consob_1999_11971.pdf",
       "sha256": "ca18bbe3d840970379ae0ad96e6af0b464d0ad4870deeddc5977a5b45867dea1",
       "size": 2561196,
-      "last_checked": "2026-07-12",
+      "last_checked": "2026-07-19",
       "last_changed": "2026-07-08"
     },
     {
@@ -60,7 +60,7 @@
       "url": "https://www.consob.it/documents/1912911/1950567/reg_consob_2010_17221.pdf",
       "sha256": "856f6b7bfc93e035392c9005bafdb13773704e9dbceb127b368d2a5d0ab02929",
       "size": 581589,
-      "last_checked": "2026-07-12",
+      "last_checked": "2026-07-19",
       "last_changed": "2026-07-08"
     },
     {
@@ -71,7 +71,7 @@
       "url": "https://www.consob.it/documents/1912911/1950567/reg_consob_2017_20249.pdf",
       "sha256": "2bea6ed4f578186f6ab4f27fcd041b8f7a419ac4194ef86f5bc557ffed51c474",
       "size": 707911,
-      "last_checked": "2026-07-12",
+      "last_checked": "2026-07-19",
       "last_changed": "2026-07-08"
     },
     {
@@ -82,7 +82,7 @@
       "url": "https://www.consob.it/documents/1912911/1950567/reg_consob_2023_22720.pdf",
       "sha256": "46ccb5c0e20f6efbb1cb0e741e6c73b33454b469228892fb763b62215a1109f1",
       "size": 298981,
-      "last_checked": "2026-07-12",
+      "last_checked": "2026-07-19",
       "last_changed": "2026-07-08"
     },
     {
@@ -93,7 +93,7 @@
       "url": "https://www.consob.it/documents/1912911/1950567/reg_consob_2023_22923.pdf",
       "sha256": "3c6dafc16f1e67c9922422b7ed227d80dd2e8137a898fd2273516a0746a3be92",
       "size": 139226,
-      "last_checked": "2026-07-12",
+      "last_checked": "2026-07-19",
       "last_changed": "2026-07-08"
     },
     {
@@ -104,7 +104,7 @@
       "url": "https://www.organismocf.it/portal/documents/40504/43281/Codice+di+Condotta+online+CD+18.12.24.pdf/89839139-4916-bd5c-5aa0-8b51c5c8dc30?t=1734947656386",
       "sha256": "edc9458e18175799f24e22cd40e5b8a92fda703ad61fa9c515153dc3d1ebb1be",
       "size": 574511,
-      "last_checked": "2026-07-12",
+      "last_checked": "2026-07-19",
       "last_changed": "2026-07-09"
     },
     {
@@ -115,7 +115,7 @@
       "url": "https://www.organismocf.it/portal/documents/40504/43281/Disposizioni+generali+sui+procedimenti+amministrativi.pdf/fc290197-226d-7885-2ba2-787cf5d0b81b?t=1659696887951",
       "sha256": "5c35ff722cc4adae95f5a54e069cdfdaa5e8b8960bbe11c66084e30fbb48e92a",
       "size": 283918,
-      "last_checked": "2026-07-12",
+      "last_checked": "2026-07-19",
       "last_changed": "2026-07-09"
     },
     {
@@ -126,7 +126,7 @@
       "url": "https://www.organismocf.it/portal/documents/40504/43281/RIO+OCF+2022.pdf/444001bb-7dc2-3f24-fca8-210001af237b?t=1659698337421",
       "sha256": "85c88c168d2e3a4228d5a0c31157b340797f0639b8699c0fdb1f66662d7a61f5",
       "size": 395842,
-      "last_checked": "2026-07-12",
+      "last_checked": "2026-07-19",
       "last_changed": "2026-07-09"
     },
     {
@@ -137,7 +137,7 @@
       "url": "https://www.organismocf.it/portal/documents/40504/43281/Statuto+OCF+2022.pdf/752dde9f-dfca-6bdd-e1a6-335c8cc12d8c?t=1659698232622",
       "sha256": "d592ce6760c1059e31bbcc78a17ddc96b7e6bd39b5b1589bad5630cbf7d54cfd",
       "size": 229914,
-      "last_checked": "2026-07-12",
+      "last_checked": "2026-07-19",
       "last_changed": "2026-07-09"
     },
     {
@@ -148,7 +148,7 @@
       "url": "https://www.organismocf.it/portal/documents/40504/0/disposizioni+adottate+con+delibera+del+28+maggio+2018%2C+n.+925.pdf/010f474f-3470-9c86-6a18-6e9c7b02dcc2?t=1659697006415",
       "sha256": "3f08d18226ce857ec4640f71fdbe1bac3d87241387955b2ec38182443ba764b3",
       "size": 379152,
-      "last_checked": "2026-07-12",
+      "last_checked": "2026-07-19",
       "last_changed": "2026-07-09"
     },
     {
@@ -159,7 +159,7 @@
       "url": "https://www.bancaditalia.it/compiti/supervisione-normativa-antiriciclaggio/normativa/archivio-norme/adeguata-verifica-clientela/Disposizioni-adeguata-verifica_versione-integrale.pdf",
       "sha256": "606c18a0576fa6f491919b727eee93f6493fbd25676da92e0e5f57acdee6f72e",
       "size": 691513,
-      "last_checked": "2026-07-12",
+      "last_checked": "2026-07-19",
       "last_changed": "2026-07-09"
     },
     {
@@ -170,7 +170,7 @@
       "url": "https://www.bancaditalia.it/compiti/vigilanza/normativa/archivio-norme/disposizioni/controlli-interni-antiriciclaggio/Disposizioni_controlli_interni_versione_integrale.pdf",
       "sha256": "d3a5e96a7d97d687bc29d892fa0eb26e72b15cee86e76531dcc72e49c030ace1",
       "size": 1450814,
-      "last_checked": "2026-07-12",
+      "last_checked": "2026-07-19",
       "last_changed": "2026-07-09"
     },
     {
@@ -181,7 +181,7 @@
       "url": "https://www.garanteprivacy.it/documents/10160/0/Codice+in+materia+di+protezione+dei+dati+personali+%28Testo+coordinato%29.pdf/b1787d6b-6bce-07da-a38f-3742e3888c1d?version=15.0",
       "sha256": "dbd6f5ca0a747c349583ed0e1118b4e66dd1cfdb12c9c948a8ac4e92cae46e13",
       "size": 675446,
-      "last_checked": "2026-07-12",
+      "last_checked": "2026-07-19",
       "last_changed": "2026-07-09"
     },
     {
@@ -192,11 +192,41 @@
       "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:02016R0679-20160504",
       "sha256": "ac72be7c4dfac98aa43a8f122ca21bddf79476a62cda0f1aa72e6db19b90a2b4",
       "size": 775161,
-      "last_checked": "2026-07-12",
+      "last_checked": "2026-07-19",
       "last_changed": "2026-07-09"
+    },
+    {
+      "name": "OCF_Testo_coordinato_procedimenti_amministrativi_2026.pdf",
+      "title": "Testo coordinato delle Disposizioni generali sui procedimenti amministrativi dell'OCF — efficace dal 1° gennaio 2026 (disposizioni adottate con delibera 6 luglio 2022, n. 1967, come modificate dalla delibera 18 febbraio 2025, n. 2671 e dalla delibera 18 dicembre 2025, n. 2873)",
+      "source": "OCF — Organismo di vigilanza e tenuta dell'albo unico dei Consulenti Finanziari",
+      "source_page": "https://www.organismocf.it/portal/web/portale-ocf/regolamenti",
+      "url": "https://www.organismocf.it/portal/documents/20151/38702/Testo+coordinato+Disposizioni+procedimenti+amministrativi.pdf/21fb1048-801d-0be7-4c93-47c40bf36731?t=1766157908190",
+      "sha256": "7d91098fef5a4b78970f90cc8e372db3b1e0bab2cd3a757893fdce9e403edb1b",
+      "size": 302344,
+      "supersedes": "OCF_Disposizioni_procedimenti_amministrativi.pdf",
+      "note": "Versione coordinata e vigente della disciplina dei procedimenti di vigilanza, sanzionatori e disciplinari OCF. Integra le modifiche delle delibere n. 2671/2025 e n. 2873/2025; si applica dal 1° gennaio 2026. Aggiorna il testo 2022 (delibera n. 1967) gia' tracciato, che resta in archivio come versione storica.",
+      "last_checked": "2026-07-19",
+      "last_changed": "2026-07-19"
+    },
+    {
+      "name": "OCF_Criteri_generali_audizione.pdf",
+      "title": "Criteri generali per l'audizione nei procedimenti di vigilanza (adottati con delibera del Comitato di Vigilanza del 17 dicembre 2024, n. 2634)",
+      "source": "OCF — Organismo di vigilanza e tenuta dell'albo unico dei Consulenti Finanziari",
+      "source_page": "https://www.organismocf.it/portal/web/portale-ocf/regolamenti",
+      "url": "https://www.organismocf.it/portal/documents/40504/43281/Criteri+generali+per+l%27audizione.pdf/2843feee-e54c-5c09-a529-676faf891eca?t=1734689859612",
+      "sha256": "a5ff5f0010f508119c2ee0a352180458b101d7c25bc8197e8d8921defbef07ce",
+      "size": 67493,
+      "note": "Disciplina il diritto di essere sentiti in audizione nel procedimento sanzionatorio nei confronti dei consulenti finanziari (art. 196 TUF). Completa il quadro dei procedimenti disciplinari/sanzionatori OCF.",
+      "last_checked": "2026-07-19",
+      "last_changed": "2026-07-19"
     }
   ],
   "notes": [
+    "Esecuzione 2026-07-19 (5a run): i 17 documenti gia' tracciati (16 archiviati + TUF per reference) risultano INVARIATI (hash SHA-256 identici alla settimana precedente).",
+    "NUOVA FONTE / AGGIORNAMENTO 2026-07-19: sulla pagina OCF 'regolamenti' e' comparso il 'Testo coordinato delle Disposizioni generali sui procedimenti amministrativi', EFFICACE DAL 1° GENNAIO 2026. E' la versione vigente della disciplina dei procedimenti di vigilanza, sanzionatori e disciplinari dei consulenti finanziari: aggiorna il testo 2022 (delibera n. 1967) gia' tracciato, integrando le modifiche delle delibere OCF n. 2671 del 18 febbraio 2025 e n. 2873 del 18 dicembre 2025. Scaricato, archiviato in documenti/ e aggiunto a state.json. Il testo 2022 resta come versione storica (campo 'supersedes').",
+    "NUOVA FONTE 2026-07-19: aggiunto anche 'Criteri generali per l'audizione nei procedimenti di vigilanza' (delibera del Comitato di Vigilanza del 17 dicembre 2024, n. 2634), che disciplina il diritto del consulente finanziario di essere sentito in audizione nel procedimento sanzionatorio (art. 196 TUF). Completa il quadro disciplinare/sanzionatorio OCF gia' monitorato.",
+    "Discovery 2026-07-19: sulla pagina Consob TUF risulta la 'Delibera Consob n. 23979 del 14 maggio 2026' (efficace dall'11 giugno 2026) che modifica i Regolamenti Emittenti 11971/1999, Parti Correlate 17221/2010 e Mercati 20249/2017. I relativi PDF consolidati pubblicati da Consob agli URL tracciati risultano tuttavia ANCORA INVARIATI (hash identici): Consob non ha ri-pubblicato i testi coordinati. Nessun nuovo binario da archiviare questa settimana; l'hash intercettera' automaticamente l'aggiornamento quando Consob ri-pubblichera' i PDF. Il TUF (D.Lgs. 58/1998) risulta aggiornato dal D.Lgs. n. 86 del 29 aprile 2026 (efficace 22 maggio 2026) sulla pagina Consob: PDF ufficiale invariato rispetto alla settimana scorsa (hash identico).",
+    "Discovery 2026-07-19 non aggiunta: sulla pagina OCF 'regolamenti' e' presente anche il 'Testo coordinato Disposizioni prova valutativa' (aggiornato con delibera 23 marzo 2026, n. 2934). Riguarda la prova valutativa d'accesso all'albo: NON aggiunto come binario tracciato perche' marginale per un consulente gia' iscritto e operativo (l'area iscrizione albo e' gia' coperta). Rivalutabile in futuro. Banca d'Italia: nessun nuovo documento rilevante nella pagina di vigilanza/normativa.",
     "Esecuzione 2026-07-12 (4a run): i 16 documenti gia' tracciati risultano INVARIATI (hash SHA-256 identici alla settimana precedente).",
     "NUOVA FONTE 2026-07-12: individuato il TUF (D.Lgs. 58/1998) come PDF UFFICIALE su consob.it (documents/1912911/1962639/dlgs58_1998.pdf), 435 pagine. Corregge la conclusione della run precedente ('il TUF non e' pubblicato come PDF su consob.it, solo Normattiva HTML'): il PDF esiste. Aggiunto a state.json e monitorato per reference tramite hash SHA-256. NON archiviato in documenti/ perche' il file pesa ~106 MB e supera il limite di 100 MB per singolo file di GitHub (il push del binario verrebbe rifiutato). Il rilevamento delle modifiche funziona comunque: ogni settimana si ri-scarica e si confronta l'hash.",
     "Discovery 2026-07-12: sulla pagina Consob TUF e' presente il nuovo 'Regolamento Consob n. 23270 del 3 ottobre 2024' in materia di autorizzazione/vigilanza dei soggetti che presentano offerte nel mercato delle aste delle quote di emissione di gas a effetto serra (EU ETS): NON aggiunto perche' non pertinente all'attivita' di consulenza finanziaria indipendente fee-only. Il Regolamento Intermediari 20307/2018 risulta fermo alla modifica 22430 (nessuna modifica piu' recente nello storico). OCF e Banca d'Italia: nessun nuovo documento rilevante.",
@@ -230,10 +260,10 @@
     ],
     "aree_stabilizzate": [
       {
-        "area": "OCF — regolamenti dell'Organismo (Codice di condotta/deontologico, procedimenti sanzionatori e disciplinari, RIO, Statuto, iscrizione albo)",
+        "area": "OCF — regolamenti dell'Organismo (Codice di condotta/deontologico, procedimenti sanzionatori e disciplinari, criteri audizione, RIO, Statuto, iscrizione albo)",
         "pagina_indice": "https://www.organismocf.it/portal/web/portale-ocf/regolamenti",
         "identificata_il": "2026-07-09",
-        "note": "Copre il codice deontologico e il regolamento disciplinare/sanzionatorio OCF richiesti (integra la fonte fissa n.3)."
+        "note": "Copre il codice deontologico e il regolamento disciplinare/sanzionatorio OCF richiesti (integra la fonte fissa n.3). Dal 2026-07-19 include il testo coordinato dei procedimenti amministrativi (efficace 1° gennaio 2026, delibere 2671/2025 e 2873/2025) e i criteri generali per l'audizione (delibera 2634/2024)."
       },
       {
         "area": "Antiriciclaggio — soggetti obbligati (D.Lgs. 231/2007 e disposizioni attuative Banca d'Italia)",
