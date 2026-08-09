@@ -13,6 +13,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Merge pull request automatically
-        run: gh pr merge --auto --merge "${{ github.event.pull_request.number }}"
+        run: |
+          # Try to enable auto-merge; if auto-merge is not available on the repo,
+          # fall back to an immediate merge. GH_REPO gives gh the repository
+          # context so it does not try to read a (non-existent) local git checkout.
+          gh pr merge --auto --merge "$PR_NUMBER" \
+            || gh pr merge --merge "$PR_NUMBER"
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
