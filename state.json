@@ -1,6 +1,6 @@
 {
   "routine": "Controllo normativo settimanale OCF",
-  "last_run": "2026-09-27",
+  "last_run": "2026-10-04",
   "drive_folder": "Normativa OCF",
   "drive_folder_id": "15-7Y-y1-gvk6JE9OQBUSAVGhh49SoXcN",
   "repo_archive_dir": "documenti/",
@@ -21,7 +21,7 @@
       "edizione": "settembre 2026",
       "pagine": 500,
       "ultima_modifica_integrata": "D.Lgs. n. 128 del 25 giugno 2026, in vigore dal 7 agosto 2026",
-      "last_checked": "2026-09-27",
+      "last_checked": "2026-10-04",
       "last_changed": "2026-09-27"
     },
     {
@@ -32,7 +32,7 @@
       "url": "https://www.bancaditalia.it/compiti/vigilanza/intermediari/Testo-Unico-Bancario.pdf",
       "sha256": "899a4d8228cd935da9987f236c193cfc0b7edf482c9931fe39e758ca13dfe703",
       "size": 3733816,
-      "last_checked": "2026-09-27",
+      "last_checked": "2026-10-04",
       "last_changed": "2026-07-08"
     },
     {
@@ -43,7 +43,7 @@
       "url": "https://www.consob.it/documents/1912911/1950567/reg_consob_2018_20307.pdf",
       "sha256": "153151bf9f01847098f186b963af278b6ca501299ef3d31455726d2fce57cb87",
       "size": 1248383,
-      "last_checked": "2026-09-27",
+      "last_checked": "2026-10-04",
       "last_changed": "2026-07-08"
     },
     {
@@ -54,7 +54,7 @@
       "url": "https://www.consob.it/documents/1912911/1950567/reg_consob_1999_11971.pdf",
       "sha256": "ca18bbe3d840970379ae0ad96e6af0b464d0ad4870deeddc5977a5b45867dea1",
       "size": 2561196,
-      "last_checked": "2026-09-27",
+      "last_checked": "2026-10-04",
       "last_changed": "2026-07-08"
     },
     {
@@ -65,7 +65,7 @@
       "url": "https://www.consob.it/documents/1912911/1950567/reg_consob_2010_17221.pdf",
       "sha256": "856f6b7bfc93e035392c9005bafdb13773704e9dbceb127b368d2a5d0ab02929",
       "size": 581589,
-      "last_checked": "2026-09-27",
+      "last_checked": "2026-10-04",
       "last_changed": "2026-07-08"
     },
     {
@@ -76,7 +76,7 @@
       "url": "https://www.consob.it/documents/1912911/1950567/reg_consob_2017_20249.pdf",
       "sha256": "2bea6ed4f578186f6ab4f27fcd041b8f7a419ac4194ef86f5bc557ffed51c474",
       "size": 707911,
-      "last_checked": "2026-09-27",
+      "last_checked": "2026-10-04",
       "last_changed": "2026-07-08"
     },
     {
@@ -87,7 +87,7 @@
       "url": "https://www.consob.it/documents/1912911/1950567/reg_consob_2023_22720.pdf",
       "sha256": "46ccb5c0e20f6efbb1cb0e741e6c73b33454b469228892fb763b62215a1109f1",
       "size": 298981,
-      "last_checked": "2026-09-27",
+      "last_checked": "2026-10-04",
       "last_changed": "2026-07-08"
     },
     {
@@ -98,7 +98,7 @@
       "url": "https://www.consob.it/documents/1912911/1950567/reg_consob_2023_22923.pdf",
       "sha256": "3c6dafc16f1e67c9922422b7ed227d80dd2e8137a898fd2273516a0746a3be92",
       "size": 139226,
-      "last_checked": "2026-09-27",
+      "last_checked": "2026-10-04",
       "last_changed": "2026-07-08"
     },
     {
@@ -113,7 +113,7 @@
       "size_precedente": 574511,
       "edizione": "approvata dal Comitato Direttivo OCF il 17 settembre 2026 (44 pagine; la precedente era del 18 dicembre 2024, 43 pagine)",
       "note": "Nuova edizione rilevata il 2026-09-27 all'URL stabile gia' tracciato (stesso link, contenuto ri-pubblicato, PDF datato 18 settembre 2026). Principali novita' rispetto all'edizione 18 dicembre 2024: (1) nuovo Capitolo 18 'Principi relativi al rispetto delle misure restrittive applicate dall'Unione Europea' (sanzioni/embarghi UE, divieto di condotte elusive, triangolazioni, congelamento fondi); (2) nuove previsioni sull'uso dei sistemi di intelligenza artificiale (uso lecito e autorizzato, richiamo alle 'Linee guida per la conformita' alla normativa in materia d'intelligenza artificiale - Rif. Modello IA di OCF'; divieto di uso improprio di strumenti tecnologici/IA nelle prove valutative); (3) rinomina di alcune sezioni ('In particolare: Principi...' -> 'Principi...') e aggiornamento del riferimento whistleblowing ('OCF Trasparente' -> 'Amministrazione Trasparente'). Documento riferito principalmente all'organizzazione dell'Organismo (Modello 231/2001) ma tracciato come codice di condotta/deontologico OCF.",
-      "last_checked": "2026-09-27",
+      "last_checked": "2026-10-04",
       "last_changed": "2026-09-27"
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://www.organismocf.it/portal/documents/40504/43281/Disposizioni+generali+sui+procedimenti+amministrativi.pdf/fc290197-226d-7885-2ba2-787cf5d0b81b?t=1659696887951",
       "sha256": "5c35ff722cc4adae95f5a54e069cdfdaa5e8b8960bbe11c66084e30fbb48e92a",
       "size": 283918,
-      "last_checked": "2026-09-27",
+      "last_checked": "2026-10-04",
       "last_changed": "2026-07-09"
     },
     {
@@ -135,7 +135,7 @@
       "url": "https://www.organismocf.it/portal/documents/40504/43281/RIO+OCF+2022.pdf/444001bb-7dc2-3f24-fca8-210001af237b?t=1659698337421",
       "sha256": "85c88c168d2e3a4228d5a0c31157b340797f0639b8699c0fdb1f66662d7a61f5",
       "size": 395842,
-      "last_checked": "2026-09-27",
+      "last_checked": "2026-10-04",
       "last_changed": "2026-07-09"
     },
     {
@@ -146,7 +146,7 @@
       "url": "https://www.organismocf.it/portal/documents/40504/43281/Statuto+OCF+2022.pdf/752dde9f-dfca-6bdd-e1a6-335c8cc12d8c?t=1659698232622",
       "sha256": "d592ce6760c1059e31bbcc78a17ddc96b7e6bd39b5b1589bad5630cbf7d54cfd",
       "size": 229914,
-      "last_checked": "2026-09-27",
+      "last_checked": "2026-10-04",
       "last_changed": "2026-07-09"
     },
     {
@@ -157,7 +157,7 @@
       "url": "https://www.organismocf.it/portal/documents/40504/0/disposizioni+adottate+con+delibera+del+28+maggio+2018%2C+n.+925.pdf/010f474f-3470-9c86-6a18-6e9c7b02dcc2?t=1659697006415",
       "sha256": "3f08d18226ce857ec4640f71fdbe1bac3d87241387955b2ec38182443ba764b3",
       "size": 379152,
-      "last_checked": "2026-09-27",
+      "last_checked": "2026-10-04",
       "last_changed": "2026-07-09"
     },
     {
@@ -168,7 +168,7 @@
       "url": "https://www.bancaditalia.it/compiti/supervisione-normativa-antiriciclaggio/normativa/archivio-norme/adeguata-verifica-clientela/Disposizioni-adeguata-verifica_versione-integrale.pdf",
       "sha256": "606c18a0576fa6f491919b727eee93f6493fbd25676da92e0e5f57acdee6f72e",
       "size": 691513,
-      "last_checked": "2026-09-27",
+      "last_checked": "2026-10-04",
       "last_changed": "2026-07-09"
     },
     {
@@ -179,7 +179,7 @@
       "url": "https://www.bancaditalia.it/compiti/vigilanza/normativa/archivio-norme/disposizioni/controlli-interni-antiriciclaggio/Disposizioni_controlli_interni_versione_integrale.pdf",
       "sha256": "d3a5e96a7d97d687bc29d892fa0eb26e72b15cee86e76531dcc72e49c030ace1",
       "size": 1450814,
-      "last_checked": "2026-09-27",
+      "last_checked": "2026-10-04",
       "last_changed": "2026-07-09"
     },
     {
@@ -190,7 +190,7 @@
       "url": "https://www.garanteprivacy.it/documents/10160/0/Codice+in+materia+di+protezione+dei+dati+personali+%28Testo+coordinato%29.pdf/b1787d6b-6bce-07da-a38f-3742e3888c1d?version=15.0",
       "sha256": "dbd6f5ca0a747c349583ed0e1118b4e66dd1cfdb12c9c948a8ac4e92cae46e13",
       "size": 675446,
-      "last_checked": "2026-09-27",
+      "last_checked": "2026-10-04",
       "last_changed": "2026-07-09"
     },
     {
@@ -201,7 +201,7 @@
       "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:02016R0679-20160504",
       "sha256": "ac72be7c4dfac98aa43a8f122ca21bddf79476a62cda0f1aa72e6db19b90a2b4",
       "size": 775161,
-      "last_checked": "2026-09-27",
+      "last_checked": "2026-10-04",
       "last_changed": "2026-07-09"
     },
     {
@@ -214,7 +214,7 @@
       "size": 302344,
       "supersedes": "OCF_Disposizioni_procedimenti_amministrativi.pdf",
       "note": "Versione coordinata e vigente della disciplina dei procedimenti di vigilanza, sanzionatori e disciplinari OCF. Integra le modifiche delle delibere n. 2671/2025 e n. 2873/2025; si applica dal 1° gennaio 2026. Aggiorna il testo 2022 (delibera n. 1967) gia' tracciato, che resta in archivio come versione storica.",
-      "last_checked": "2026-09-27",
+      "last_checked": "2026-10-04",
       "last_changed": "2026-07-19"
     },
     {
@@ -226,7 +226,7 @@
       "sha256": "a5ff5f0010f508119c2ee0a352180458b101d7c25bc8197e8d8921defbef07ce",
       "size": 67493,
       "note": "Disciplina il diritto di essere sentiti in audizione nel procedimento sanzionatorio nei confronti dei consulenti finanziari (art. 196 TUF). Completa il quadro dei procedimenti disciplinari/sanzionatori OCF.",
-      "last_checked": "2026-09-27",
+      "last_checked": "2026-10-04",
       "last_changed": "2026-07-19"
     },
     {
@@ -238,11 +238,12 @@
       "sha256": "6d56a5be1b8d085a20b12be9f34fc8964ed0c5f2a3ad0936a08afb0c97606ffa",
       "size": 117904,
       "note": "Disciplina la ricezione ed elaborazione delle segnalazioni (esposti/whistleblowing) provenienti da soggetti esterni riguardanti possibili violazioni da parte dei soggetti vigilati OCF, espressamente inclusi i consulenti finanziari autonomi e le societa' di consulenza finanziaria (attivita' fee-only). Alimenta l'attivita' di vigilanza e i procedimenti disciplinari/sanzionatori gia' tracciati. Il PDF non riporta un numero di delibera OCF ne' una data di 'entrata in vigore' esplicita nel testo.",
-      "last_checked": "2026-09-27",
+      "last_checked": "2026-10-04",
       "last_changed": "2026-08-02"
     }
   ],
   "notes": [
+    "Esecuzione 2026-10-04 (15a run): tutti i 20 documenti tracciati sono stati ri-scaricati dalle fonti ufficiali (HTTP 200 su tutti, in parallelo con User-Agent browser; nessun retry necessario per bot-protection questa settimana) e confrontati tramite hash SHA-256: TUTTI INVARIATI, hash identici all'esecuzione precedente del 2026-09-27. In particolare il TUF (D.Lgs. 58/1998) resta STABILE: hash 92eb9344... e dimensione 56.906.141 byte invariati (edizione consolidata 'Settembre 2026', 500 pagine, ultima modifica integrata D.Lgs. 128/2026 in vigore dal 7 agosto 2026) e il Codice di condotta OCF resta all'edizione del 17 settembre 2026 (hash 88805569... invariato). NESSUNA modifica su alcun documento tracciato e NESSUNA nuova fonte rilevante individuata: NESSUNA MAIL inviata (nessuna modifica, nessuna nuova fonte). Discovery 2026-10-04: (Consob TUF e regolamenti, HTTP 200) la pagina conferma il TUF aggiornato con D.Lgs. n. 128 del 25 giugno 2026 (in vigore dal 7 agosto 2026), coerente con l'edizione gia' archiviata; i Regolamenti Emittenti 11971/1999, Parti Correlate 17221/2010 e Mercati 20249/2017 restano indicati come aggiornati con delibera n. 23979 del 14 maggio 2026 (in vigore dall'11 giugno 2026), ma i PDF consolidati agli URL tracciati sono ancora identici (hash invariati): Consob non ha ancora ri-pubblicato quei testi coordinati; l'hash intercettera' automaticamente la nuova pubblicazione. Reg. Intermediari 20307/2018 (fonte principale per i consulenti) fermo alla delibera 22430 del 28 luglio 2022, confermato sulla pagina 'storico-modifiche-intermediari3' (HTTP 200; ultima delibera elencata 22430/2022, nessuna modifica 2025/2026). (OCF regolamenti, HTTP 200) nessun documento nuovo rilevante: il Codice di condotta resta all'edizione del 17 settembre 2026 gia' tracciata; l'unico documento non tracciato resta il 'Testo coordinato Disposizioni prova valutativa' (accesso all'albo, efficace 1 settembre 2026, delibera 2934/2026), confermato marginale per un consulente gia' iscritto. (OCF normativa, HTTP 200) pagina-quadro del riferimento legislativo (TUF, Legge 262/2005, Reg. Intermediari 20307/2018, DM 472/1998, DM 206/2008, DM 66/2012, D.Lgs. 129/2017, MiFID II/MiFIR, MAR) gia' coperta, nessuna novita' 2026. (Banca d'Italia vigilanza/normativa e antiriciclaggio, HTTP 200) nessun nuovo documento rilevante datato 2026; TUB e le due disposizioni antiriciclaggio (adeguata verifica + organizzazione/procedure/controlli) invariati. (Privacy, HTTP 200) Codice 196/2003 e GDPR/EUR-Lex invariati ed entrambi raggiungibili. NESSUNA nuova fonte aggiunta al monitoraggio.",
     "Esecuzione 2026-09-27 (14a run): DUE MODIFICHE RILEVATE su fonti tracciate. Tutti i 20 documenti sono stati ri-scaricati dalle fonti ufficiali (HTTP 200 su tutti, alcuni download Consob riusciti al retry per bot-protection) e confrontati tramite hash SHA-256. (1) TUF (D.Lgs. 58/1998): Consob ha ri-pubblicato all'URL stabile tracciato una NUOVA EDIZIONE consolidata 'Settembre 2026'. Hash 082365b9... -> 92eb9344...; dimensione 116.383.493 -> 56.906.141 byte; pagine 512 -> 500. La prima pagina riporta 'Aggiornato con le modifiche apportate dal D.Lgs. n. 128 del 25 giugno 2026 (in vigore dal 7 agosto 2026)' (la precedente edizione luglio 2026 si fermava al D.Lgs. 86/2026). Metadati PDF: creato 2026-09-24, prodotto con Word Microsoft 365. IMPORTANTE: con 56,9 MB il file ora rientra sotto il limite GitHub di 100 MB, quindi da questa run e' ARCHIVIATO in documenti/TUF_dlgs58_1998.pdf (nelle edizioni precedenti ~111-116 MB non era archiviabile ed era solo monitorato per reference). La forte riduzione di dimensione (da 116 a 57 MB, -50 MB) e' dovuta a una diversa produzione/compressione del PDF da parte di Consob, non a un dimezzamento dei contenuti (500 vs 512 pagine). (2) OCF Codice di condotta: ri-pubblicato all'URL stabile tracciato in nuova edizione 'approvata dal Comitato Direttivo di OCF il 17 settembre 2026' (PDF datato 18 settembre 2026, 44 pagine; la precedente era del 18 dicembre 2024, 43 pagine). Hash edc9458e... -> 88805569...; dimensione 574.511 -> 612.275 byte. Novita' sostanziali (diff testuale): nuovo Capitolo 18 'Principi relativi al rispetto delle misure restrittive applicate dall'Unione Europea' (sanzioni/embarghi UE); nuove previsioni sull'uso dei sistemi di intelligenza artificiale con richiamo alle 'Linee guida Modello IA di OCF' e divieto di uso improprio dell'IA nelle prove valutative; rinomina di alcune sezioni e aggiornamento del riferimento whistleblowing ('OCF Trasparente' -> 'Amministrazione Trasparente'). MAIL INVIATA (oggetto 'Aggiornamento normativo settimanale') per segnalare entrambe le modifiche. Gli altri 18 documenti tracciati risultano INVARIATI (hash identici al 2026-09-20). Discovery 2026-09-27: (Consob TUF e regolamenti, HTTP 200 al retry via curl) la pagina indica per il TUF l'aggiornamento con D.Lgs. n. 128 (in vigore da agosto 2026), coerente con la nuova edizione scaricata; i Regolamenti Emittenti 11971/1999, Parti Correlate 17221/2010 e Mercati 20249/2017 restano indicati come aggiornati con delibera n. 23979 del 14 maggio 2026 (in vigore dall'11 giugno 2026), ma i PDF consolidati agli URL tracciati sono ancora identici (hash invariati): Consob non ha ancora ri-pubblicato quei testi coordinati; l'hash intercettera' la nuova pubblicazione. Reg. Intermediari 20307/2018 (fonte principale per i consulenti) fermo alla delibera 22430 del 28 luglio 2022 (confermato sulla pagina 'storico-modifiche-intermediari3', HTTP 200). Il link 'delibera-23997-2026' (Allegato Regolamento Emittenti) resta non pertinente alla consulenza fee-only. (OCF regolamenti, HTTP 200) oltre al Codice di condotta aggiornato, l'unico documento non tracciato resta il 'Testo coordinato Disposizioni prova valutativa' (accesso all'albo, efficace 1 settembre 2026, delibera 2934/2026), confermato marginale per un consulente gia' iscritto. (Banca d'Italia vigilanza/normativa e antiriciclaggio, HTTP 200) nessun nuovo documento rilevante datato 2026; TUB e le due disposizioni antiriciclaggio invariati. (Privacy, HTTP 200) Codice 196/2003 e GDPR/EUR-Lex invariati ed entrambi raggiungibili. NESSUNA nuova fonte aggiunta al monitoraggio (le due modifiche riguardano fonti gia' tracciate).",
     "Esecuzione 2026-09-20 (13a run): tutti i 20 documenti gia' tracciati (19 archiviati in documenti/ + TUF ~116 MB monitorato per reference) sono stati ri-scaricati dalle fonti ufficiali (HTTP 200 su tutti, alcuni download Consob riusciti solo dopo retry per bot-protection) e confrontati tramite hash SHA-256: TUTTI INVARIATI, hash identici all'esecuzione precedente del 2026-09-13. In particolare il TUF (D.Lgs. 58/1998) resta STABILE: hash 082365b9... e dimensione 116.383.493 byte invariati (edizione consolidata 'luglio 2026', 512 pagine, ultima modifica integrata D.Lgs. 86/2026 in vigore dal 22 maggio 2026). NESSUNA modifica su alcun documento tracciato e NESSUNA nuova fonte rilevante individuata: NESSUNA MAIL inviata (nessuna modifica, nessuna nuova fonte). Discovery 2026-09-20: (Consob TUF e regolamenti, HTTP 200 al retry) la pagina continua a indicare l'aggiornamento dei Regolamenti Emittenti 11971/1999, Parti Correlate 17221/2010 e Mercati 20249/2017 con delibera n. 23979 del 14 maggio 2026 (in vigore dall'11 giugno 2026), ma i PDF consolidati agli URL tracciati restano identici (hash invariati): Consob non ha ancora ri-pubblicato quei testi coordinati; l'hash intercettera' automaticamente la nuova pubblicazione. Reg. Intermediari 20307/2018 (fonte principale per i consulenti) fermo alla delibera 22430 del 28 luglio 2022, confermato sulla pagina 'storico-modifiche-intermediari3' (HTTP 200; ultima delibera elencata 22430/2022). Nessun nuovo binario Consob rilevante (i link non tracciati - allegati del Reg. Emittenti, del_consob_2023_22833, Linee Guida art. 120, post-trading BdI, EU ETS - restano non pertinenti alla consulenza indipendente fee-only). (OCF regolamenti/normativa, HTTP 200) nessun documento nuovo rilevante: i soli non tracciati restano i 'Testo coordinato Disposizioni prova valutativa' (accesso all'albo, delibere 2873/2025 e 2934/2026), confermati marginali per un consulente gia' iscritto. La pagina OCF 'normativa' (fonte fissa 3) resta la pagina-quadro del riferimento legislativo (TUF, Legge 262/2005, Reg. Intermediari 20307/2018, DM 206/2008, DM 66/2012, D.Lgs. 129/2017, MiFID II/MiFIR, MAR), gia' coperta. (Banca d'Italia vigilanza/normativa e antiriciclaggio, HTTP 200) nessun nuovo documento rilevante datato 2026; TUB e le due disposizioni antiriciclaggio invariati. (Privacy, HTTP 200) Codice 196/2003 e GDPR/EUR-Lex invariati ed entrambi raggiungibili. NESSUNA nuova fonte aggiunta al monitoraggio.",
     "Esecuzione 2026-09-13 (12a run): tutti i 20 documenti gia' tracciati (19 archiviati in documenti/ + TUF ~116 MB monitorato per reference) sono stati ri-scaricati dalle fonti ufficiali (HTTP 200 su tutti) e confrontati tramite hash SHA-256: TUTTI INVARIATI, hash identici all'esecuzione precedente del 2026-09-06. In particolare il TUF (D.Lgs. 58/1998), ri-pubblicato la settimana scorsa come edizione consolidata 'luglio 2026', risulta STABILE su questa run: hash 082365b9... e dimensione 116.383.493 byte invariati (edizione 'luglio 2026', 512 pagine, ultima modifica integrata D.Lgs. 86/2026 in vigore dal 22 maggio 2026). NESSUNA modifica su alcun documento tracciato e NESSUNA nuova fonte rilevante individuata: NESSUNA MAIL inviata (nessuna modifica, nessuna nuova fonte). Discovery 2026-09-13: (Consob TUF e regolamenti, HTTP 200) la pagina continua a indicare l'aggiornamento dei Regolamenti Emittenti 11971/1999, Parti Correlate 17221/2010 e Mercati 20249/2017 con delibera n. 23979 del 14 maggio 2026 (in vigore dall'11 giugno 2026), ma i PDF consolidati agli URL tracciati restano identici (hash invariati): Consob non ha ancora ri-pubblicato quei testi coordinati; l'hash intercettera' automaticamente la nuova pubblicazione. Reg. Intermediari 20307/2018 (fonte principale per i consulenti) fermo alla delibera 22430 del 28 luglio 2022, confermato sulla pagina 'storico-modifiche-intermediari3' (HTTP 200; ultima delibera elencata 22430/2022). (OCF regolamenti/normativa, HTTP 200) nessun documento nuovo rilevante: i soli non tracciati restano i 'Testo coordinato Disposizioni prova valutativa' (accesso all'albo, ora anche versione efficace dal 1 settembre 2026 e aggiornamento delibera 23 marzo 2026 n. 2934), confermati marginali per un consulente gia' iscritto; le variazioni dei parametri '?t=' nei link OCF sono solo cache-busting, i contenuti (hash) sono invariati. La pagina OCF 'normativa' (fonte fissa 3) resta la pagina-quadro del riferimento legislativo (TUF, DM, MiFID II/MiFIR, MAR, Reg. Intermediari), gia' coperta. (Banca d'Italia vigilanza/normativa e antiriciclaggio, HTTP 200) nessun nuovo documento rilevante datato 2026; TUB e le due disposizioni antiriciclaggio (adeguata verifica + organizzazione/procedure/controlli) invariati. (Privacy, HTTP 200) Codice 196/2003 e GDPR/EUR-Lex invariati ed entrambi raggiungibili. NESSUNA nuova fonte aggiunta al monitoraggio.",
